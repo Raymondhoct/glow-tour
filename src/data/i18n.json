@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "siteName": "光與影旅遊資訊網",
+    "siteSlogan": "夜色啟程 · 發現不一樣的世界",
+    "enterBtn": "進入",
+    "nav": {
+      "china": "中國",
+      "japan": "日本",
+      "korea": "韓國",
+      "thailand": "泰國",
+      "finland": "芬蘭",
+      "myJourney": "我的旅程記錄",
+      "cart": "購物車",
+      "points": "積分",
+      "login": "登入",
+      "register": "注冊",
+      "coupon": "優惠券"
+    },
+    "homeIntro": "由於全球氣候變暖，日間出行越來越炎熱，年輕旅行者逐漸偏好傍晚與夜間出遊。本網站專注兩大特色：① 夜色主題旅遊景點設計；② 景點互動體驗 — 拍攝美景上傳可賺取積分，積分可兌換景點商店優惠券。",
+    "exploreTitle": "精選夜色旅遊行程",
+    "serviceTitle": "我們的服務",
+    "reviewWallTitle": "用戶分享牆（僅顯示7天內分享）",
+    "journey": {
+      "boughtList": "已購買行程",
+      "uploadTitle": "分享你的旅遊回憶",
+      "date": "日期",
+      "location": "旅遊地點",
+      "title": "標題",
+      "note": "旅遊隨記（100字以內）",
+      "photo": "上傳照片",
+      "submit": "發布並獲取100積分",
+      "backupTip": "旅遊照片與紀錄僅儲存於本裝置瀏覽器，清除資料或更換裝置將無法查看，建議自行備份",
+      "exportBackup": "匯出備份(JSON)"
+    },
+    "tour": {
+      "days": "天",
+      "priceFrom": "費用：由5888起",
+      "addCart": "加入購物車",
+      "detail": "行程詳情",
+      "infoTitle": "實用資訊",
+      "cultureTitle": "歷史與文化"
+    },
+    "footer": {
+      "about": "關於我們",
+      "service": "服務條款",
+      "privacy": "私隱政策",
+      "contact": "聯絡我們",
+      "copyright": "© 2026 光與影旅遊資訊網 版權所有"
+    }
+  },
+  "en": {
+    "siteName": "Night & Shadow Tourism",
+    "siteSlogan": "Journey after Dusk · Discover a Different World",
+    "enterBtn": "Enter",
+    "nav": {
+      "china": "China",
+      "japan": "Japan",
+      "korea": "Korea",
+      "thailand": "Thailand",
+      "finland": "Finland",
+      "myJourney": "My Journey",
+      "cart": "Cart",
+      "points": "Points",
+      "login": "Login",
+      "register": "Register",
+      "coupon": "Coupons"
+    },
+    "homeIntro": "With global warming making daytime travel hotter, young travellers prefer evening & night‑time trips. Our two core features: ① Night‑themed tour design; ② Interactive experience — upload photos to earn points, redeemable for shop coupons.",
+    "exploreTitle": "Selected Night Tours",
+    "serviceTitle": "Our Services",
+    "reviewWallTitle": "User Wall (Last 7 days only)",
+    "journey": {
+      "boughtList": "Purchased Tours",
+      "uploadTitle": "Share Your Memories",
+      "date": "Date",
+      "location": "Location",
+      "title": "Title",
+      "note": "Note (max 100 words)",
+      "photo": "Upload Photo",
+      "submit": "Post & Earn 100 Points",
+      "backupTip": "Photos & records are stored locally on this browser only. Data may be lost if you clear browser data or change device. Please back up.",
+      "exportBackup": "Export Backup (JSON)"
+    },
+    "tour": {
+      "days": "days",
+      "priceFrom": "From 5888",
+      "addCart": "Add to Cart",
+      "detail": "Details",
+      "infoTitle": "Practical Info",
+      "cultureTitle": "History & Culture"
+    },
+    "footer": {
+      "about": "About Us",
+      "service": "Terms",
+      "privacy": "Privacy",
+      "contact": "Contact",
+      "copyright": "© 2026 Night & Shadow Tourism. All rights reserved."
+    }
+  }
+}

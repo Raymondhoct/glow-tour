@@ -1,0 +1,9 @@
+export { default as SplashPage } from './SplashPage';
+export { default as HomePage } from './HomePage';
+export { default as BrowsePage } from './BrowsePage';
+export { default as CountryPage } from './CountryPage';
+export { default as TourDetailPage } from './TourDetailPage';
+export { default as RecordForm } from './RecordForm';
+export { default as MyRecordsPage } from './MyRecordsPage';
+export { default as CartPage } from './CartPage';
+export { default as CouponPage } from './CouponPage';

@@ -1,0 +1,73 @@
+[
+  {
+    "id":"china",
+    "nameZh":"中國",
+    "nameEn":"China",
+    "dateZh": "september 26th, 2026",
+    "dateEn": "september 26th, 2026",
+    "cityZh": "中國 - 水墨星空夜（張家界+大唐不夜城）",
+    "cityEn": "China - Ink-Wash Starry Night (Zhangjiajie + Datang Never Night City)",
+    "themeClass":"theme-china",
+    "descZh":"中國地域廣闊，擁有眾多適合夜遊的古鎮、長城與都市夜景；夜色之中，傳統建築燈光與現代繁華交織，獨具東方氣韻。",
+    "descEn":"China offers ancient towns, Great Wall views and vibrant city nightscapes. Traditional lighting blends with modern glamour.",
+    "customZh":"當地禮儀：參觀古蹟請保持安靜；部分景區有夜遊專用通道；建議預約。",
+    "customEn":"Etiquette: Keep quiet at heritage sites. Many night tours require advance booking."
+  },
+  {
+    "id":"japan",
+    "nameZh":"日本",
+    "nameEn":"Japan",
+    "dateZh": "september 26th, 2026",
+    "dateEn": "september 26th, 2026",
+    "cityZh": "日本 - 禪意霓虹夜（新宿+祇園夜櫻）",
+    "cityEn": "Japan - Zen Neon Night (Shinjuku + Gion Night Cherry Blossoms)",
+    "themeClass":"theme-japan",
+    "descZh":"日本的夜間景點充滿幽靜美感：神社燈籠、河畔夜色、都市霓虹，營造出寧靜又浪漫的氛圍。",
+    "descEn":"Japanese nightscapes feature shrine lanterns, river views and neon city lights — quiet yet romantic.",
+    "customZh":"公共場所請降低音量；垃圾盡量自行帶走；遵守景區參觀規則。",
+    "customEn":"Keep voice low in public spaces. Take trash with you. Follow site rules."
+  },
+  {
+    "id":"korea",
+    "nameZh":"韓國",
+    "nameEn":"Korea",
+    "dateZh": "september 26th, 2026",
+    "dateEn": "september 26th, 2026",
+    "cityZh": "韓國 - K-POP 月光野餐（漢江+釜山）",
+    "cityEn": "South Korea - K-POP Moonlight Picnic (Han River + Busan)",
+    "themeClass":"theme-korea",
+    "descZh":"韓國的夜遊融合現代潮流與傳統宮殿燈光，明洞、北村、漢江夜景都是年輕人喜愛的目的地。",
+    "descEn":"Korean night tours blend modern trends with lit palaces. Han River and historic districts are popular spots.",
+    "customZh":"街邊飲食區請保持整潔；宮殿夜遊需留意開放時間。",
+    "customEn":"Keep street‑food areas clean. Check opening hours for palace night viewings."
+  },
+  {
+    "id":"thailand",
+    "nameZh":"泰國",
+    "nameEn":"Thailand",
+    "dateZh": "september 26th, 2026",
+    "dateEn": "september 26th, 2026",
+    "cityZh": "泰國 - 金廟湄南河天燈夜",
+    "cityEn": "Thailand - Golden Temple & Chao Phraya River Sky Lantern Night",
+    "themeClass":"theme-thailand",
+    "descZh":"泰國夜市、寺廟夜燈、河上遊船，熱帶夜風伴隨香氣與燈光，充滿熱情活力。",
+    "descEn":"Thailand’s night markets, lit temples and river cruises offer warm, vibrant tropical evenings.",
+    "customZh":"參觀寺廟注意衣著得體；尊重當地禮節；夜間出行留意安全。",
+    "customEn":"Dress modestly at temples. Respect local customs. Stay safe at night.",
+    "remark":"價格為港幣參考"
+  },
+  {
+    "id":"finland",
+    "nameZh":"芬蘭",
+    "nameEn":"Finland",
+    "dateZh": "september 26th, 2026",
+    "dateEn": "september 26th, 2026",
+    "cityZh": "芬蘭 - 極光冰屋 ",
+    "cityEn": "Finland - Aurora Glass Igloo",    
+    "themeClass":"theme-finland",
+    "descZh":"芬蘭以極光、森林、湖泊夜間風光聞名；長夜之中，寧靜的北歐夜色與極光奇觀吸引無多旅行者。",
+    "descEn":"Finland is famous for auroras, forests and lake nightscapes. Long Nordic nights offer magical quiet views.",
+    "customZh":"留意天氣與保暖；進入森林請跟隨導遊；尊重薩米人文化。",
+    "customEn":"Prepare for cold weather. Stay with guides in forests. Respect Sámi culture."
+  }
+]

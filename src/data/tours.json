@@ -1,0 +1,820 @@
+[
+  {
+    "tourId": "cn-01",
+    "countryId": "china",
+    "titleZh": "西安夜色古城遊",
+    "titleEn": "Xian’ Ancient City Night Tour",
+    "days": 3,
+    "price": 2888,
+    "img": "/images/tours/cn01.jpg",
+    "rating": 4.7,
+    "reviewCount": 359,
+    "studentCount": 4820,
+    "shortZh": "漫步夜間古城牆，感受古都夜色",
+    "shortEn": "Walk the ancient city wall by night",
+       
+
+    "detailZh": [
+        " 西安古城牆夜間燈光雄偉，大雁塔與鐘樓夜景令人難忘。行程包含夜間導賞、特色宵夜體驗。",
+        " \u3000• 歷史：西安曾為十三朝古都，夜遊可以感受千年皇城氣息。",
+        " \u3000• 實用資訊：建議穿舒適鞋子；夜間溫度較低；建議預約門票。"
+        
+    ],
+    "detailEn": [
+      " Xian’ city wall glows at night. ",
+      " \u3000 •  Includes guided night walk & local night food. ",
+      " \u3000 •  Practical info: \u3000Wear comfy shoes; \u3000nights can be cool; \u3000booking recommended. "
+
+    ],
+    "tourdetailZh": [
+      "○ 備註：永寧門 22:00 閉園（最後入場 21:00）；鐘樓、鼓樓外燈光平日 23:00 熄燈、週末 00:00 熄燈；大唐不夜城燈光約 22:30 開始收，23:00 後人流大減。",
+        "\u3000",
+      " •✅ 核心規則：**日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜**。",
+        "\u3000",
+      " •🏨住宿建議：**鐘樓 / 永寧門（南門）地鐵 2 號線附近酒店**，地鐵直達所有夜景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+      " •✈️交通：香港直航西安咸陽機場，飛行約 3 小時 20 分鐘；機場地鐵直達市區 2 號線，約 45 分鐘到鐘樓。"
+    ],
+    "tourdetailEn": [
+      "○ Notes: Yongning Gate closes at 22:00 (last entry 21:00). Bell & Drum Tower outdoor lights off at 23:00 on weekdays, 00:00 on weekends. Lights of Great Tang All Day Mall dim from 22:30; crowds thin after 23:00.",
+    "\u3000",
+    " •✅ Core Rule: **Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.**",
+    "\u3000",
+    " •🏨Accommodation Tip: **Hotels near Metro Line 2 (Bell Tower / Yongning Gate (South Gate)).** Direct metro access to all night spots, easy night travel & quiet daytime rest.",
+    "\u3000",
+    " •✈️Transport: Direct flight HK → Xi’an Xianyang Airport (~3hrs20mins). Airport metro connects to Line 2 downtown, ~45mins to Bell Tower."
+    
+    ],
+    "plandetailZh": [
+      "Day1｜抵達西安｜鐘鼓樓 + 永寧門古城牆夜景（老城核心）",
+      "\u3000○ 鐘鼓樓夜間步行導賞，\u3000○ 古城牆夜遊， \u3000○ 小南門（勿幕門）夜市。",
+      "\u3000",
+      "Day2｜曲江盛唐夜景｜大雁塔 + 大唐不夜城（最強夜間表演）。",
+      "\u3000○ 大雁塔夜間導賞，\u3000○ 大唐不夜城， \u3000○ 大唐芙蓉園外圍 / 曲江夜市。",
+      "\u3000",
+      "Day3｜長安十二時辰主題街區 + 回坊深度夜逛，之後搭機返港 ",
+      "\u3000○ 長安十二時辰主題街區夜場，沉浸式唐代市井場景，超多 NPC 互動，燈光古風氛圍極強，可安排夜間導賞\u3000○ 西羊市 + 回民街（回坊）， \u3000○ 搭航班返回香港。"
+     
+    ],
+    "plandetailEn": [
+    "Day1｜Arrive Xi’an｜Bell & Drum Tower + Yongning Gate City Wall Night View (Old Town Core)",
+    "　○ Guided night walking tour at Bell & Drum Tower,　○ Night tour on City Wall, 　○ Xiaonanmen (Wumu Gate) Night Market.",
+    "\u3000",
+    "Day2｜Qujiang Tang Night Scenery｜Giant Wild Goose Pagoda + Great Tang All Day Mall (Top Night Shows).",
+    "　○ Night guided tour at Giant Wild Goose Pagoda,　○ Great Tang All Day Mall, 　○ Outside Tang Paradise / Qujiang Night Market.",
+    "\u3000",
+    "Day3｜Chang’an Twelve Hours Themed Block + Deep Night Tour of Muslim Quarter, then flight back to HK ",
+    "　○ Night session of Chang’an Twelve Hours Themed Block, immersive Tang-dynasty street scenes with many NPC interactions & strong ancient-style lighting; night guided tour available.　○ Xiyangshi + Muslim Street (Muslim Quarter), 　○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "cn-02",
+    "countryId": "china",
+    "titleZh": "上海黃浦江夜景遊",
+    "titleEn": "Shanghai Huangpu River Night Tour",
+    "days": 3,
+    "price": 3888,
+    "img": "/images/tours/cn02.jpg",
+    "shortZh": "乘船欣賞外灘與陸家嘴燈光",
+    "shortEn": "Cruise along Huangpu River skyline",
+    "detailZh": "外灘歷史建築與陸家嘴摩天大樓形成經典上海夜景；行程包含遊船與濱江步行。歷史：上海近代開埠後成為東方金融中心，夜景代表城市活力。實用資訊：遊船建議提前預訂；風大注意保暖。",
+    "detailEn": "Classic skyline of Bund & Lujiazui. Includes river cruise & waterfront walk. Practical info: Book cruise in advance; wind can be strong.",
+    "tourdetailZh": [
+        "○ 備註：外灘景觀燈平日22:00熄燈，週末及節假日延至23:00；黃浦江渡輪營運至22:00，浦江遊船末班約21:30；豫園燈光21:30收燈，22:00閉園。",
+        "\u3000",
+        " •✅ 核心規則：**日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜**。",
+        "\u3000",
+        " •🏨住宿建議：**南京東路 / 外灘附近酒店（地鐵2、10號線）**，地鐵直達各夜景景點，夜間往返便利，日間可安靜休息。",
+        "\u3000",
+        " •✈️交通：香港直航上海浦東機場，飛行約2小時40分鐘；機場地鐵2號線直達南京東路，約60分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: The Bund lights off at 22:00 on weekdays, extended to 23:00 on weekends & holidays. Huangpu River ferry runs until 22:00; last river cruise departs around 21:30. Yu Garden lights dim at 21:30, closes at 22:00.",
+        "\u3000",
+        " •✅ Core Rule: **Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.**",
+        "\u3000",
+        " •🏨Accommodation Tip: **Hotels near Nanjing East Road / The Bund (Metro Line 2 & 10).** Direct metro access to all night spots, easy night travel & quiet daytime rest.",
+        "\u3000",
+        " •✈️Transport: Direct flight HK → Shanghai Pudong Airport (~2hrs40mins). Metro Line 2 from airport to Nanjing East Road, ~60mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達上海｜外灘萬國建築 + 黃浦江渡輪夜景（浦西經典江景）",
+        "\u3000○ 外灘濱江夜間步行導賞，\u3000○ 外白渡橋打卡， \u3000○ 黃浦江東金線輪渡夜遊 + 南京路宵夜。",
+        "\u3000",
+        "Day2｜陸家嘴天際線｜東方明珠 + 陸家嘴濱江（魔都核心地標夜景）。",
+        "\u3000○ 陸家嘴夜間導賞，\u3000○ 陸家嘴濱江步道， \u3000○ 陸家嘴商圈本幫宵夜。",
+        "\u3000",
+        "Day3｜豫園古風燈景 + 新天地石庫門夜逛，之後搭機返港 ",
+        "\u3000○ 豫園夜場燈景，九曲橋古建燈光，可安排夜間導賞\u3000○ 新天地石庫門夜遊， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Shanghai｜The Bund Wanyo Buildings + Huangpu River Ferry Night View (Classic Puxi River View)",
+        "\u3000○ Guided night walking tour along The Bund waterfront,\u3000○ Visit Waibaidu Bridge,  \u3000○ Night cruise via Huangpu East Jin Ferry + Night snacks at Nanjing Road.",
+        "\u3000",
+        "Day2｜Lujiazui Skyline｜Oriental Pearl Tower + Lujiazui Waterfront (Core City Landmark Night View).",
+        "\u3000○ Night guided tour in Lujiazui,\u3000○ Lujiazui waterfront promenade,  \u3000○ Local Shanghai supper in Lujiazui shopping district.",
+        "\u3000",
+        "Day3｜Yu Garden Ancient Lighting + Xintiandi Shikumen Night Tour, then flight back to HK ",
+        "\u3000○ Night lighting of Yu Garden, ancient lights at Nine-Turn Bridge; night guided tour available\u3000○ Shikumen night tour at Xintiandi,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "cn-03",
+    "countryId": "china",
+    "titleZh": "重慶山城夜遊",
+    "titleEn": "Chongqing Mountain City Night Tour",
+    "days": 3,
+    "price": 2988,
+    "img": "/images/tours/cn03.jpg",
+    "shortZh": "穿樓梯與跨海，體驗立體山城",
+    "shortEn": "Experience 3D mountain‑city night views",
+    "detailZh": "重慶多層次地形造就獨特夜景，洪崖洞燈景聞名全國；行程包含索道、江邊漫步。歷史：山城自古為水陸樞紐，夜間燈海象徵當代繁榮。實用資訊：樓梯多，穿防滑鞋；導航容易迷路，建議跟隨導遊。",
+    "detailEn": "Multi‑layered night views including Hongyadong. Includes cableway & riverside walk. Practical info: Wear non‑slip shoes; easy to get lost without guide.",
+    "tourdetailZh": [
+        "○ 備註：洪崖洞燈光19:30–23:00；千厮門大橋燈光冬季19:30–21:30、夏季20:00–22:30；南山一棵樹觀景台22:30閉園；兩江遊船末班約21:30。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：解放碑 / 小什字地鐵1、6號線附近酒店，地鐵直達所有夜景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航重慶江北國際機場，飛行約2小時30分鐘；機場地鐵10號線轉6號線到小什字，約50分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Hongya Cave lights 19:30–23:00; Qiansimen Bridge lights 19:30–21:30 in winter, 20:00–22:30 in summer. Nanshan One Tree Viewing Platform closes at 22:30; last Two-River cruise departs around 21:30.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        " •🏨Accommodation Tip: Hotels near Jiefangbei / Xiaoshizi (Metro Line 1 & 6). Direct metro access to all night spots, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Chongqing Jiangbei International Airport (~2hrs30mins). Take Metro Line10 transfer to Line6 to Xiaoshizi, ~50mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達重慶｜洪崖洞吊腳樓 + 千厮門大橋夜景（渝中核心）",
+        "\u3000○ 洪崖洞夜間步行導賞，\u3000○ 千厮門大橋打卡， \u3000○ 解放碑夜市宵夜。",
+        "\u3000",
+        "Day2｜兩江交匯夜景｜彈子石老街 + 長嘉滙濱江（江景山城燈光）。",
+        "\u3000○ 彈子石老街夜間導賞，\u3000○ 長嘉滙觀景平台， \u3000○ 南濱路江邊宵夜。",
+        "\u3000",
+        "Day3｜南山一棵樹全山城俯瞰 + 山城步道夜逛，之後搭機返港",
+        "\u3000○ 南山一棵樹觀景台俯瞰重慶全城燈海，可安排夜間導賞 \u3000○ 山城步道臨崖夜景， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Chongqing｜Hongya Cave Stilt Houses + Qiansimen Bridge Night View (Yuzhong Core)",
+        "\u3000○ Guided night walking tour at Hongya Cave,\u3000○ Visit Qiansimen Bridge,  \u3000○ Night snacks at Jiefangbei Night Market.",
+        "\u3000",
+        "Day2｜Two-River Confluence Night View｜Danzishi Old Street + Changjiahui Waterfront (Mountain City River Lights).",
+        "\u3000○ Night guided tour in Danzishi Old Street,\u3000○ Changjiahui viewing terrace,  \u3000○ Riverside supper at Nanbin Road.",
+        "\u3000",
+        "Day3｜Panoramic City View at Nanshan One Tree + Mountain City Trail Night Tour, then flight back to HK",
+        "\u3000○ Overlook whole Chongqing light sea at Nanshan One Tree viewing platform; night guided tour available \u3000○ Cliffside night view at Mountain City Trail,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "jp-01",
+    "countryId": "japan",
+    "titleZh": "京都神社燈影夜遊",
+    "titleEn": "Kyoto Shrine Lantern Night Tour",
+    "days": 3,
+    "price": 7288,
+    "img": "/images/tours/jp01.jpg",
+    "shortZh": "神社燈籠點亮，感受古都幽靜",
+    "shortEn": "Lantern‑lit shrines in ancient Kyoto",
+    "detailZh": "部分京都神社限定夜間開放，燈籠光線映著木造建築，氣氛寧靜優美。歷史：京都千年為日本首都，夜遊呈現傳統日式美學。實用資訊：夜場名額有限；禁止使用閃光燈；保持安靜。",
+    "detailEn": "Selected shrines open for special night viewings. Soft lantern light creates calm atmosphere. Practical info: Limited slots; no flash photography; keep quiet.",
+    "tourdetailZh": [
+        "○ 備註：伏見稻荷大社千本鳥居夜燈至21:00；清水寺夜燈一般21:00結束（特定季節才開放夜拜）；祇園街店鋪多於22:00關門；公共巴士約23:00收班。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：京都站 / 祇園附近酒店，巴士直達各神社景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航大阪關西機場，飛行約3小時45分鐘；機場特快列車到京都站，約75分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Fushimi Inari Taisha Senbon Torii night lighting till 21:00; Kiyomizu-dera night illumination ends at 21:00 (only available in selected seasons). Most shops in Gion close at 22:00; last public bus departs around 23:00.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Kyoto Station / Gion. Buses go directly to shrines, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Kansai Airport, Osaka (~3hrs45mins). Haruka Express train to Kyoto Station, ~75mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達京都｜伏見稻荷大社千本鳥居燈影（山林神社夜景）",
+        "\u3000○ 伏見稻荷夜間步行導賞，\u3000○ 千本鳥居燈影漫步， \u3000○ 伏見區日式居酒屋宵夜。",
+        "\u3000",
+        "Day2｜東山古寺夜燈｜清水寺 + 二年坂三年坂（古街燈光景致）。",
+        "\u3000○ 清水寺夜燈導賞，\u3000○ 二年坂三年坂古街夜逛， \u3000○ 祇園附近日式宵夜。",
+        "\u3000",
+        "Day3｜祇園花見小路 + 八坂神社夜遊，之後搭機返港",
+        "\u3000○ 八坂神社夜間燈影參拜，可安排夜間導賞 \u3000○ 祇園花見小路古巷夜遊， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Kyoto｜Fushimi Inari Taisha Senbon Torii Light Scenery (Mountain Shrine Night View)",
+        "\u3000○ Guided night walking tour at Fushimi Inari,\u3000○ Stroll through lit Senbon Torii,  \u3000○ Supper at Japanese izakaya in Fushimi area.",
+        "\u3000",
+        "Day2｜Higashiyama Temple Illumination｜Kiyomizu-dera + Ninenzaka & Sannenzaka (Ancient Street Lights).",
+        "\u3000○ Guided tour of Kiyomizu-dera night illumination,\u3000○ Night walk at Ninenzaka & Sannenzaka,  \u3000○ Japanese supper near Gion.",
+        "\u3000",
+        "Day3｜Gion Hanamikoji + Yasaka Shrine Night Tour, then flight back to HK",
+        "\u3000○ Visit lit Yasaka Shrine at night; night guided tour available \u3000○ Night stroll in old lanes of Gion Hanamikoji,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "jp-02",
+    "countryId": "japan",
+    "titleZh": "東京都市霓虹夜遊",
+    "titleEn": "Tokyo Neon Night Tour",
+    "days": 3,
+    "price": 6688,
+    "img": "/images/tours/jp02.jpg",
+    "shortZh": "新宿、澀谷感受東京夜活力",
+    "shortEn": "Shinjuku & Shibuya neon night walk",
+    "detailZh": "東京街頭霓虹與立體廣告聞名世界；行程包含十字路口觀景、居酒屋體驗。歷史：戰後快速發展成為亞洲潮流中心；夜景代表現代日本。\"實用資訊\":\"人多注意財物；公共交通很晚才收車。",
+    "detailEn": "Famous neon signs & 3D advertisements. Includes izakaya stop. Practical info: Watch belongings; public transport runs late.",
+    "tourdetailZh": [
+        "○ 備註：新宿、澀谷霓虹燈多營業至24:00；東京塔燈光23:00熄燈；晴空塔燈光22:30熄燈；地鐵尾班車約23:30；居酒屋多營業至凌晨。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：新宿地鐵站附近酒店，多條地鐵線匯集，直達各霓虹景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航東京羽田機場，飛行約4小時30分鐘；機場單軌轉地鐵到新宿，約40分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Neon lights in Shinjuku & Shibuya mostly stay on till 24:00. Tokyo Tower lights off at 23:00; Tokyo Skytree lights off at 22:30. Last metro departs around 23:30; most izakayas open till early morning.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Shinjuku Metro Station. Multiple metro lines connect directly to neon spots, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Tokyo Haneda Airport (~4hrs30mins). Take airport monorail then metro to Shinjuku, ~40mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達東京｜新宿都市霓虹 + 東京塔夜景（都會核心燈海）",
+        "\u3000○ 新宿歌舞伎町夜間步行導賞，\u3000○ 東京塔觀景台賞夜景， \u3000○ 新宿居酒屋宵夜。",
+        "\u3000",
+        "Day2｜澀谷潮流霓虹｜澀谷十字路口 + 晴空塔（現代東京地標夜景）。",
+        "\u3000○ 澀谷街區夜間導賞，\u3000○ 晴空塔觀景層賞城市燈光， \u3000○ 澀谷日式小吃宵夜。",
+        "\u3000",
+        "Day3｜銀座華麗街燈 + 台場濱海夜景夜遊，之後搭機返港",
+        "\u3000○ 台場濱海無人機/燈光展演，可安排夜間導賞 \u3000○ 銀座大街華麗街燈漫步， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Tokyo｜Shinjuku City Neon + Tokyo Tower Night View (Urban Core Light Sea)",
+        "\u3000○ Guided night walking tour in Shinjuku Kabukicho,\u3000○ Enjoy night view at Tokyo Tower observation deck,  \u3000○ Supper at izakaya in Shinjuku.",
+        "\u3000",
+        "Day2｜Shibuya Trendy Neon｜Shibuya Crossing + Tokyo Skytree (Modern Tokyo Landmark Night View).",
+        "\u3000○ Night guided tour around Shibuya district,\u3000○ City lights viewing at Tokyo Skytree observation floor,  \u3000○ Japanese snack supper in Shibuya.",
+        "\u3000",
+        "Day3｜Ginza Elegant Streetlights + Odaiba Waterfront Night Tour, then flight back to HK",
+        "\u3000○ Odaiba waterfront drone / light show; night guided tour available \u3000○ Stroll along elegant lit streets of Ginza,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "jp-03",
+    "countryId": "japan",
+    "titleZh": "大阪道頓堀夜遊",
+    "titleEn": "Osaka Dotonbori Night Tour",
+    "days": 3,
+    "price": 6488,
+    "img": "/images/tours/jp03.jpg",
+    "shortZh": "道頓堀招牌與夜市美食之旅",
+    "shortEn": "Dotonbori signs & night food tour",
+    "detailZh": "道頓堀巨型招牌與街邊美食是大阪代表；夜間熱鬧但親切。歷史：大阪自古商業繁榮，被稱為天下廚房。實用資訊：夜市人潮多；部分小店只收現金。",
+    "detailEn": "Iconic giant signs & street food stalls. Osaka has long been a merchant city. Practical info: Crowded; some shops accept cash only.",
+    "tourdetailZh": [
+        "○ 備註：道頓堀霓虹招牌多至23:00熄燈；黑門市場店鋪20:00前多結業；梅田蓝天大厦观景台22:00關閉；大阪地鐵尾班車約23:30；居酒屋大多營業至凌晨。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：難波地鐵站附近酒店，多條地鐵線匯集，直達各夜景景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航大阪關西國際機場，飛行約3小時40分鐘；機場南海電鐵直達難波站，約45分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Most Dotonbori neon signs turn off at 23:00. Most shops in Kuromon Ichiba close before 20:00. Umeda Sky Building observation deck closes at 22:00. Last Osaka metro departs around 23:30; most izakayas open till early morning.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Namba Metro Station. Multiple rail lines connect directly to night spots, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Kansai International Airport, Osaka (~3hrs40mins). Nankai Express train direct to Namba Station, ~45mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達大阪｜道頓堀霓虹 + 心齋橋夜遊（大阪經典繁華街夜景）",
+        "\u3000○ 道頓堀河邊夜間步行導賞，\u3000○ 心齋橋商店街燈光漫步， \u3000○ 道頓堀大阪特色宵夜。",
+        "\u3000",
+        "Day2｜梅田都市夜景｜梅田蓝天大厦 + 中之島燈光（現代大阪天際線）。",
+        "\u3000○ 梅田街區夜間導賞，\u3000○ 梅田蓝天大厦空中庭院觀景， \u3000○ 梅田商圈日式宵夜。",
+        "\u3000",
+        "Day3｜天保山濱海燈景 + 阿倍野HARUKAS夜景夜遊，之後搭機返港",
+        "\u3000○ 天保山港灣燈光與摩天輪夜景，可安排夜間導賞 \u3000○ 阿倍野HARUKAS高層觀景台， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Osaka｜Dotonbori Neon + Shinsaibashi Night Tour (Classic Osaka Downtown Night View)",
+        "\u3000○ Guided night walking tour along Dotonbori Riverside,\u3000○ Stroll lit Shinsaibashi shopping arcade,  \u3000○ Osaka local supper at Dotonbori.",
+        "\u3000",
+        "Day2｜Umeda Urban Night View｜Umeda Sky Building + Nakanoshima Lights (Modern Osaka Skyline).",
+        "\u3000○ Night guided tour around Umeda district,\u3000○ Observation at Umeda Sky Building Floating Garden,  \u3000○ Japanese supper in Umeda shopping area.",
+        "\u3000",
+        "Day3｜Tempozan Harbour Lights + Abeno Harukas Night Tour, then flight back to HK",
+        "\u3000○ Tempozan harbour lights & Ferris wheel night view; night guided tour available \u3000○ High-level observation deck at Abeno Harukas,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "kr-01",
+    "countryId": "korea",
+    "titleZh": "首爾宮殿燈光夜遊",
+    "titleEn": "Seoul Palace Moonlight Tour",
+    "days": 3,
+    "price": 5988,
+    "img": "/images/tours/kr01.jpg",
+    "shortZh": "景福宮月光特別開放夜遊",
+    "shortEn": "Special night opening at Gyeongbokgung",
+    "detailZh": "景福宮夜間限定燈光，韓服與古建築相映成趣。歷史：朝鮮王朝正宮，夜遊重現王室氛圍。實用資訊：夜遊需預約；可租借韓服；注意開放日期。",
+    "detailEn": "Gyeongbokgung special night lighting. Hanbok rental available. Practical info: Reservation required; check opening dates.",
+    "tourdetailZh": [
+        "○ 備註：昌德宮月光特別參觀需預約，活動約21:00結束；北村韓屋村街燈22:30熄燈；N首爾塔燈光23:00熄燈；首爾地鐵尾班車約23:30；弘大夜市多營業至24:00。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：鍾路 / 安國地鐵站附近酒店，地鐵直達宮殿與古村夜景景點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航首爾仁川國際機場，飛行約3小時40分鐘；機場鐵路AREX直達首爾站，轉地鐵到鍾路，約60分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Changdeokgung Moonlight Tour requires reservation and ends around 21:00. Street lights of Bukchon Hanok Village turn off at 22:30. N Seoul Tower lights out at 23:00. Last Seoul metro departs around 23:30; Hongdae night market opens till 24:00.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Jongno / Anguk Metro Station. Direct metro access to palaces and hanok village, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Seoul Incheon International Airport (~3hrs40mins). AREX airport train to Seoul Station then metro to Jongno, ~60mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達首爾｜昌德宮月光宮殿燈光 + 北村韓屋村（古宮與韓屋夜景）",
+        "\u3000○ 昌德宮月光特別參觀夜間導賞，\u3000○ 北村韓屋村古巷燈光漫步， \u3000○ 仁寺洞韓式宵夜。",
+        "\u3000",
+        "Day2｜首爾山頂夜景｜N首爾塔 + 明洞繁華街燈（城市全景燈海）。",
+        "\u3000○ N首爾塔夜間導賞，\u3000○ 首爾塔俯瞰全城夜景， \u3000○ 明洞街區韓式小吃宵夜。",
+        "\u3000",
+        "Day3｜弘大夜市夜遊 + 清溪川燈光水景，之後搭機返港",
+        "\u3000○ 清溪川溪流燈光步道，可安排夜間導賞 \u3000○ 弘大夜市潮流夜逛， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Seoul｜Changdeokgung Palace Moonlight Lights + Bukchon Hanok Village (Ancient Palace & Hanok Night View)",
+        "\u3000○ Guided Changdeokgung Moonlight Special Tour,\u3000○ Stroll lit alleys in Bukchon Hanok Village,  \u3000○ Korean supper at Insadong.",
+        "\u3000",
+        "Day2｜Seoul Hilltop Night View｜N Seoul Tower + Myeongdong Street Lights (Panoramic City Light Sea).",
+        "\u3000○ Night guided tour at N Seoul Tower,\u3000○ Overlook whole city night view from Seoul Tower,  \u3000○ Korean snack supper in Myeongdong.",
+        "\u3000",
+        "Day3｜Hongdae Night Market + Cheonggyecheon Stream Light Water View, then flight back to HK",
+        "\u3000○ Lit Cheonggyecheon stream trail; night guided tour available \u3000○ Trendy night stroll in Hongdae Night Market,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "kr-02",
+    "countryId": "korea",
+    "titleZh": "漢江公園夜景體驗",
+    "titleEn": "Han River Park Night Experience",
+    "days": 3,
+    "price": 5688,
+    "img": "/images/tours/kr02.jpg",
+    "shortZh": "漢江公園野餐與燈光噴泉",
+    "shortEn": "Han River park picnic & light fountain",
+    "detailZh": "漢江沿岸公園是首爾人夜間休閒地；噴泉表演、路邊小吃、自行車租借都很受歡迎。歷史：漢江貫穿首爾，是城市生活象徵。實用資訊：噴泉有固定時間表；夜間風大。",
+    "detailEn": "Popular riverside leisure area with fountain shows & street snacks. Practical info: Check fountain timetable; windy at night.",
+    "tourdetailZh": [
+        "○ 備註：漢江公園步道燈光24小時開放；漢江遊船末班約21:30；盤浦大橋月光噴泉表演一般21:00結束；首爾地鐵尾班車約23:30；路邊攤多營業至24:00。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：汝矣島 / 蠶室地鐵站附近酒店，地鐵直達漢江沿岸各公園，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航首爾仁川國際機場，飛行約3小時40分鐘；機場鐵路AREX轉地鐵到汝矣島，約70分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Path lights at Han River Park stay on 24hrs. Last Han River cruise departs around 21:30. Banpo Bridge Moonlight Fountain show usually ends at 21:00. Last Seoul metro departs around 23:30; street stalls open till 24:00.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Yeouido / Jamsil Metro Station. Direct metro access to riverside parks, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Seoul Incheon International Airport (~3hrs40mins). AREX airport train then metro to Yeouido, ~70mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達首爾｜汝矣島漢江公園 + 漢江遊船（江濱都市夜景）",
+        "\u3000○ 汝矣島漢江公園濱江夜間步行導賞，\u3000○ 漢江遊船賞兩岸燈光， \u3000○ 漢江路邊攤韓式宵夜。",
+        "\u3000",
+        "Day2｜盤浦大橋噴泉｜盤浦漢江公園 + 月光彩虹噴泉（知名橋樑燈光秀）。",
+        "\u3000○ 盤浦大橋夜間導賞，\u3000○ 觀賞月光彩虹噴泉表演， \u3000○ 江南商圈韓式宵夜。",
+        "\u3000",
+        "Day3｜蠶室漢江公園 + 樂天世界塔燈景夜遊，之後搭機返港",
+        "\u3000○ 蠶室漢江公園河畔漫步，可安排夜間導賞 \u3000○ 樂天世界塔高空燈光景觀， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Seoul｜Yeouido Han River Park + Han River Cruise (Riverside Urban Night View)",
+        "\u3000○ Guided night riverside walking tour at Yeouido Han River Park,\u3000○ Enjoy riverside lights by Han River cruise,  \u3000○ Korean supper at Han River street stalls.",
+        "\u3000",
+        "Day2｜Banpo Bridge Fountain｜Banpo Han River Park + Moonlight Rainbow Fountain (Famous Bridge Light Show).",
+        "\u3000○ Night guided tour at Banpo Bridge,\u3000○ Watch Moonlight Rainbow Fountain show,  \u3000○ Korean supper in Gangnam district.",
+        "\u3000",
+        "Day3｜Jamsil Han River Park + Lotte World Tower Light View, then flight back to HK",
+        "\u3000○ Riverside stroll at Jamsil Han River Park; night guided tour available \u3000○ High-rise light scenery of Lotte World Tower,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "kr-03",
+    "countryId": "korea",
+    "titleZh": "釜山海邊夜市夜遊",
+    "titleEn": "Busan Beach Night Market Tour",
+    "days": 3,
+    "price": 6188,
+    "img": "/images/tours/kr03.jpg",
+    "shortZh": "海雲台海邊夜市與海岸燈光",
+    "shortEn": "Haeundae beach night market & coast lights",
+    "detailZh": "釜山海邊夜市熱鬧，海風伴隨小吃香氣；海岸步道燈光浪漫。歷史：釜山為韓國第一大港；海邊文化深厚。實用資訊：夏天夜間仍然多人；留意潮汐時間。",
+    "detailEn": "Lively beach market with sea breeze & food. Busan is Korea’s main port city. Practical info: Crowded in summer; check tide info.",
+    "tourdetailZh": [
+        "○ 備註：海雲台夜市營業至22:30，夏季延至23:00；廣安里鑽石大橋燈光23:00熄燈；札嘎其海鮮夜市可營業至24:00；釜山2號地鐵尾班車約23:30；海濱步道燈光整夜開放。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：海雲台地鐵站附近酒店，地鐵直達海濱與各大海邊夜市，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航釜山金海國際機場，飛行約3小時25分鐘；機場輕軌轉地鐵到海雲台，約60分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Haeundae Night Market opens till 22:30, extended to 23:00 in summer. Gwangalli Diamond Bridge lights turn off at 23:00. Jagalchi seafood night market stays open until 24:00. Last Busan Metro Line 2 departs around 23:30; seaside promenade lights stay on overnight.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Haeundae Metro Station. Direct metro access to seaside and coastal night markets, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Busan Gimhae International Airport (~3hrs25mins). Airport light rail then metro to Haeundae, ~60mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達釜山｜海雲台海灘夜市 + The Bay 101濱海燈光（東海海濱夜景）",
+        "\u3000○ 海雲台海邊夜市夜間步行導賞，\u3000○ The Bay 101賞海上燈海， \u3000○ 海雲台海鮮小吃宵夜。",
+        "\u3000",
+        "Day2｜廣安里海灘｜廣安里夜市 + 鑽石大橋燈光秀（經典跨海大橋夜景）。",
+        "\u3000○ 廣安里海濱夜間導賞，\u3000○ 觀賞鑽石大橋燈光， \u3000○ 廣安里路邊攤宵夜。",
+        "\u3000",
+        "Day3｜札嘎其海鮮夜市 + 南浦洞街區夜遊，之後搭機返港",
+        "\u3000○ 札嘎其海鮮夜市品嘗海產美食，可安排夜間導賞 \u3000○ 南浦洞繁華街燈光漫步， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Busan｜Haeundae Beach Night Market + The Bay 101 Coastal Lights (East Sea Seaside Night View)",
+        "\u3000○ Guided night walking tour at Haeundae seaside night market,\u3000○ Enjoy sea lights at The Bay 101,  \u3000○ Seafood snack supper in Haeundae.",
+        "\u3000",
+        "Day2｜Gwangalli Beach｜Gwangalli Night Market + Diamond Bridge Light Show (Iconic Cross-sea Bridge Night View).",
+        "\u3000○ Night guided tour along Gwangalli waterfront,\u3000○ Watch Diamond Bridge lighting,  \u3000○ Street stall supper in Gwangalli.",
+        "\u3000",
+        "Day3｜Jagalchi Seafood Night Market + Nampo District Night Tour, then flight back to HK",
+        "\u3000○ Taste seafood at Jagalchi Night Market; night guided tour available \u3000○ Stroll lit busy streets in Nampo,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "th-01",
+    "countryId": "thailand",
+    "titleZh": "曼谷湄南河遊船夜遊",
+    "titleEn": "Bangkok Chao Phraya River Cruise",
+    "days": 3,
+    "price": 3888,
+    "img": "/images/tours/th01.jpg",
+    "shortZh": "湄南河遊船觀看寺廟燈光",
+    "shortEn": "River cruise with lit temple views",
+    "detailZh": "湄南河兩岸寺廟在夜間點燈，金黃色輪廓倒映河面；遊船含簡單餐點。歷史：湄南河為泰國母親河，曼谷沿河流發展。實用資訊：選擇有遮蔭船隻；防蚊液；留意船公司安全評價。",
+    "detailEn": "Golden‑lit temples reflect on the river. Light meal included. Practical info: Bring mosquito repellent; choose safe cruise operators.",
+    "tourdetailZh": [
+        "○ 備註：湄南河遊船末班船約22:00；大皇宮、鄭王廟岸邊燈光22:30熄燈；河邊碼頭夜市營業至23:00；曼谷BTS天鐵尾班車約23:30；河畔餐廳多營業至午夜。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：昭披耶河河畔 / 暹羅商圈附近酒店，BTS天鐵直達各碼頭，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航曼谷素萬那普國際機場，飛行約2小時30分鐘；機場快線轉BTS天鐵到河畔區，約50分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Last Chao Phraya River cruise departs around 22:00. Riverbank lights of Grand Palace and Wat Arun turn off at 22:30. Riverside pier night market opens till 23:00. Last BTS Skytrain departs around 23:30; most riverside restaurants stay open till midnight.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Chao Phraya River / Siam area. BTS Skytrain connects directly to piers, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Bangkok Suvarnabhumi International Airport (~2hrs30mins). Airport rail link then BTS Skytrain to riverside zone, ~50mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達曼谷｜湄南河遊船 + 鄭王廟岸邊燈光（泰式古寺河畔夜景）",
+        "\u3000○ 湄南河遊船夜間導賞，\u3000○ 船上觀賞鄭王廟燈影， \u3000○ 河邊碼頭泰式宵夜。",
+        "\u3000",
+        "Day2｜ASIATIQUE河濱夜市｜ASIATIQUE夜市 + 河畔摩天輪燈光（復古碼頭夜間市集）。",
+        "\u3000○ ASIATIQUE河濱夜市步行導賞，\u3000○ 河畔摩天輪賞湄南河夜景， \u3000○ 夜市特色小吃宵夜。",
+        "\u3000",
+        "Day3｜ICONSIAM水燈與河景 + 大皇宮外圍燈光夜遊，之後搭機返港",
+        "\u3000○ ICONSIAM商場河畔燈光展演，可安排夜間導賞 \u3000○ 大皇宮外圍沿岸古建燈景， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Bangkok｜Chao Phraya River Cruise + Wat Arun Riverside Lights (Thai Temple River Night View)",
+        "\u3000○ Guided night tour on Chao Phraya River cruise,\u3000○ View lit Wat Arun from the boat,  \u3000○ Thai supper at riverside pier.",
+        "\u3000",
+        "Day2｜ASIATIQUE The Riverfront｜ASIATIQUE Night Market + Riverside Ferris Wheel Lights (Vintage Pier Night Bazaar).",
+        "\u3000○ Guided walking tour in ASIATIQUE The Riverfront,\u3000○ Enjoy Chao Phraya night view from riverside Ferris wheel,  \u3000○ Local snack supper in market.",
+        "\u3000",
+        "Day3｜ICONSIAM River Lights + Grand Palace Outer Lighting Tour, then flight back to HK",
+        "\u3000○ ICONSIAM riverside light show; night guided tour available \u3000○ Ancient building lights along Grand Palace riverfront,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "th-02",
+    "countryId": "thailand",
+    "titleZh": "清邁古城夜市夜遊",
+    "titleEn": "Chiang Mai Old Town Night Bazaar Tour",
+    "days": 3,
+    "price": 3788,
+    "img": "/images/tours/th02.jpg",
+    "shortZh": "古城夜市與寺廟夜燈散步",
+    "shortEn": "Old town night market & lit temple walk",
+    "detailZh": "清邁古城週末夜市聞名；寺廟安靜、市集熱鬧，兩種氣氛並存。歷史：清邁曾為蘭納王朝首都，文化獨特。實用資訊：週末夜市規模更大；可適度議價；注意財物。",
+    "detailEn": "Famous weekend night market beside old temples. Lanna‑style heritage. Practical info: Weekend markets are larger; gentle bargaining is common.",
+    "tourdetailZh": [
+        "○ 備註：清邁週日夜市約22:30結束，週六夜市營業至22:00；古城門與古寺外牆燈光23:00熄燈；雙條車晚間營業至24:00；路邊泰式小吃攤多營業至23:00。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：清邁古城牆內附近酒店，步行可達各大夜市與古寺，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航清邁國際機場，飛行約2小時40分鐘；機場乘雙條車前往清邁古城，約15分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Chiang Mai Sunday Night Market ends around 22:30, Saturday Night Market closes at 22:00. Lights on old city gates and temple exteriors turn off at 23:00. Songthaew service runs till 24:00; most street food stalls stay open until 23:00.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels inside Chiang Mai Old City. Walking distance to night markets and ancient temples, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Chiang Mai International Airport (~2hrs40mins). Take songthaew from airport to Old City, ~15mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達清邁｜清邁週日夜市 + 塔佩門燈光（古城經典夜市夜景）",
+        "\u3000○ 週日夜市步行夜間導賞，\u3000○ 塔佩門古城門燈光打卡， \u3000○ 夜市泰式地道小吃宵夜。",
+        "\u3000",
+        "Day2｜古城古寺夜賞｜帕辛寺外圍燈光 + 古城巷弄燈影（蘭納古寺夜間風情）。",
+        "\u3000○ 清邁古城巷弄夜間導賞，\u3000○ 帕辛寺外牆蘭納風格燈光觀賞， \u3000○ 古城路邊攤宵夜。",
+        "\u3000",
+        "Day3｜週六夜市 + 河畔咖啡街燈光夜遊，之後搭機返港",
+        "\u3000○ 清邁週六夜市特色攤位遊逛，可安排夜間導賞 \u3000○ 平河河畔休閒街燈漫步， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Chiang Mai｜Chiang Mai Sunday Night Market + Thapae Gate Lights (Classic Old Town Night Market View)",
+        "\u3000○ Guided walking tour of Sunday Night Market,\u3000○ Photo at lit Thapae Old City Gate,  \u3000○ Authentic Thai snack supper in market.",
+        "\u3000",
+        "Day2｜Ancient Temple Night Visit｜Wat Phra Singh Exterior Lights + Old Town Alley Lights (Lanna Temple Night Atmosphere).",
+        "\u3000○ Night guided walk through Chiang Mai Old City alleys,\u3000○ Admire Lanna-style exterior lighting of Wat Phra Singh,  \u3000○ Street stall supper in old town.",
+        "\u3000",
+        "Day3｜Saturday Night Market + Ping River Street Lights Tour, then flight back to HK",
+        "\u3000○ Explore stalls at Chiang Mai Saturday Night Market; night guided tour available \u3000○ Stroll along lit Ping River leisure street,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "th-03",
+    "countryId": "thailand",
+    "titleZh": "普吉海灘夕夜體驗",
+    "titleEn": "Phuket Beach Dusk‑to‑Night Tour",
+    "days": 3,
+    "price": 4388,
+    "img": "/images/tours/th03.jpg",
+    "shortZh": "海灘夕陽轉夜景，海邊小攤體驗",
+    "shortEn": "Sunset to night beach experience",
+    "detailZh": "普吉海灘從夕陽過渡到夜間燈光，海邊酒吧與小食攤充滿度假感。歷史：普吉長期為貿易港口；旅遊業發達。實用資訊：留意海邊安全；部分路燈較少；建議結伴。",
+    "detailEn": "Beach sunset transitions into relaxed night atmosphere. Practical info: Stay safe near shore; some areas have limited lighting.",
+    "tourdetailZh": [
+        "○ 備註：神仙半岛日落觀景台傍晚21:00關閉；芭東海灘路燈整夜常亮，芭東夜市營業至23:00；海邊酒吧多營業至午夜；島上Grab計程車晚間持續服務，海灘攤販大約22:30收攤。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：芭東海灘附近酒店，步行可達沙灘與夜市，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航普吉國際機場，飛行約3小時35分鐘；機場乘計程車到芭東海灘，約45分鐘。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Promthep Cape sunset viewpoint closes at 21:00. Streetlights along Patong Beach stay on overnight. Patong Night Market opens till 23:00. Beach bars remain open until midnight. Grab taxi service available at night; beach stalls pack up around 22:30.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels near Patong Beach. Walking distance to beach and night market, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK → Phuket International Airport (~3hrs35mins). Taxi from airport to Patong Beach, ~45mins."
+    ],
+    "plandetailZh": [
+        "Day1｜抵達普吉｜芭東海灘夕陽 + 芭東夜市（熱鬧海灘夕夜風光）",
+        "\u3000○ 芭東海灘夕夜步行導賞，\u3000○ 沙灘欣賞日落與海岸燈光， \u3000○ 芭東夜市海鮮小吃宵夜。",
+        "\u3000",
+        "Day2｜神仙半島夕照｜神仙半島日落觀景台 + 卡倫海灘夜景（經典海角落日與海岸燈光）。",
+        "\u3000○ 神仙半島海岬夜間導賞，\u3000○ 觀賞落日後卡倫海灘海岸燈影， \u3000○ 卡倫海灘路邊攤宵夜。",
+        "\u3000",
+        "Day3｜卡塔海灘夕夜 + 普吉鎮老街夜市夜遊，之後搭機返港",
+        "\u3000○ 卡塔海灘沙灘漫步賞夜色，可安排夜間導賞 \u3000○ 普吉鎮葡式老建築夜市燈光， \u3000○ 搭航班返回香港。"
+    ],
+    "plandetailEn": [
+        "Day1｜Arrive Phuket｜Patong Beach Sunset + Patong Night Market (Lively Beach Sunset & Night View)",
+        "\u3000○ Guided sunset walking tour on Patong Beach,\u3000○ Watch sunset and coastal lights on the beach,  \u3000○ Seafood snack supper at Patong Night Market.",
+        "\u3000",
+        "Day2｜Promthep Cape Sunset｜Promthep Cape Viewpoint + Karon Beach Night View (Iconic Cape Sunset & Coastal Lights).",
+        "\u3000○ Night guided tour at Promthep Cape headland,\u3000○ Admire coastal lights of Karon Beach after sunset,  \u3000○ Street stall supper at Karon Beach.",
+        "\u3000",
+        "Day3｜Kata Beach Sunset Experience + Phuket Old Town Night Market Tour, then flight back to HK",
+        "\u3000○ Stroll Kata Beach for sea night scenery; night guided tour available \u3000○ Sino-Portuguese building lights at Phuket Town night market,  \u3000○ Flight back to Hong Kong."
+    ]
+  },
+  {
+    "tourId": "fi-01",
+    "countryId": "finland",
+    "titleZh": "羅瓦涅米極光追蹤夜遊",
+    "titleEn": "Rovaniemi Aurora Chase Tour",
+    "days": 5,
+    "price": 28800,
+    "img": "/images/tours/fi01.jpg",
+    "shortZh": "森林之中追尋北極光奇觀",
+    "shortEn": "Aurora chasing in boreal forest",
+    "detailZh": "羅瓦涅米位於北極圈附近；夜間導遊帶領前往極光觀測點，提供保暖裝備。歷史：薩米人為當地原住民；極光是北歐神話重要意象。實用資訊：極光無法100%保證；必須穿足夠保暖；跟隨認證導遊。",
+    "detailEn": "Aurora observation with guide & thermal gear. Sámi cultural background. Practical info: Aurora sighting not guaranteed; dress extremely warm; use certified guides.",
+    "tourdetailZh": [
+        "○ 備註：羅瓦涅米極光團一般18:00–24:00出發追尋極光，極光屬自然現象無法保證看見；聖誕老人村營業至20:00，村內燈光22:00熄滅；冬季夜間氣溫極低，需備禦寒裝備；市區餐廳大多22:00打烊。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：羅瓦涅米市區或近郊森林木屋酒店，距離極光出發集合點較近，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港先直飛赫爾辛基約13小時40分，轉國內航班飛羅瓦涅米約1小時30分；返程羅瓦涅米飛赫爾辛基轉香港，全程連候機約16小時。整個行程來回飛行+當地3晚極光夜遊，總計5天。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Rovaniemi aurora hunting tours depart between 18:00–24:00. Aurora is a natural phenomenon and sightings are not guaranteed. Santa Claus Village closes at 20:00 and village lights turn off at 22:00. Temperature drops sharply at night in winter, warm winter outfit required. Most local restaurants close at 22:00.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels or forest cabins in Rovaniemi city or nearby suburbs, close to aurora tour meeting points, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK to Helsinki ~13hrs40mins, connecting domestic flight to Rovaniemi ~1hr30mins. Return trip Rovaniemi to Helsinki then back to HK, total travel time including transfer ~16hrs. Full trip including round-trip flights and 3 nights aurora tours takes 5 days."
+    ],
+    "plandetailZh": [
+        "Day1｜香港出發｜香港搭機轉機抵達羅瓦涅米，傍晚抵達酒店休息，適應時差。",
+        "\u3000○ 抵達羅瓦涅米，入住木屋酒店，\u3000○ 傍晚簡單休整，預備次日極光活動， \u3000○ 酒店內簡單北歐餐宵夜。",
+        "\u3000",
+        "Day2｜羅瓦涅米極光追蹤一｜森林極光狩獵夜遊（原始林地追尋北極光）。",
+        "\u3000○ 森林極光導賞團夜間出發，\u3000○ 雪地尋找極光，欣賞夜空綠光， \u3000○ 營地熱湯與北歐簡餐宵夜。",
+        "\u3000",
+        "Day3｜聖誕老人村夜賞｜聖誕老人村燈光 + 河畔極光觀測（北極圈主題燈景）。",
+        "\u3000○ 聖誕老人村夜間燈光參觀導賞，\u3000○ 北極圈標誌打卡，河畔等候極光， \u3000○ 市區北歐餐廳宵夜。",
+        "\u3000",
+        "Day4｜冰湖極光體驗｜冰湖極光夜遊 + 雪上活動夜間體驗，之後整理行李。",
+        "\u3000○ 冰湖極光追蹤夜間導賞，可安排冰上活動 \u3000○ 冰封湖面仰望北極夜空， \u3000○ 木屋暖屋熱食宵夜。",
+        "\u3000",
+        "Day5｜返程香港｜羅瓦涅米搭機經赫爾辛基轉機返回香港。",
+        "\u3000○ 羅瓦涅米機場搭國內航班飛赫爾辛基，\u3000○ 赫爾辛基轉乘國際航班飛返香港， \u3000○ 航班機上簡餐。"
+    ],
+    "plandetailEn": [
+        "Day1｜Depart HK｜Fly from Hong Kong with transfer and arrive in Rovaniemi, check into hotel in the evening and adjust jet lag.",
+        "\u3000○ Arrive Rovaniemi and check in cabin hotel,\u3000○ Brief rest in the evening and prepare aurora activities,  \u3000○ Simple Nordic dinner inside hotel.",
+        "\u3000",
+        "Day2｜Aurora Hunting Tour 1｜Forest Aurora Hunting Tour (Chase Northern Lights in primitive woodland).",
+        "\u3000○ Night guided forest aurora tour,\u3000○ Chase aurora on snowfield and watch green lights in sky,  \u3000○ Hot soup and simple Nordic supper at camp.",
+        "\u3000",
+        "Day3｜Santa Claus Village Night｜Santa Claus Village Lights + Riverside Aurora Observation (Arctic Circle themed light scenery).",
+        "\u3000○ Guided night tour for Santa Claus Village lights,\u3000○ Take photos at Arctic Circle marker and wait aurora by river,  \u3000○ Nordic restaurant supper in town.",
+        "\u3000",
+        "Day4｜Ice Lake Aurora Experience｜Ice Lake Aurora Tour + Night snow activities, pack luggage afterwards.",
+        "\u3000○ Guided ice lake aurora tour with optional ice activities,\u3000○ Watch arctic night sky over frozen lake,  \u3000○ Warm food supper in cabin.",
+        "\u3000",
+        "Day5｜Return to HK｜Take flight from Rovaniemi via Helsinki back to Hong Kong.",
+        "\u3000○ Take domestic flight from Rovaniemi to Helsinki,\u3000○ Transfer to international flight back to Hong Kong,  \u3000○ In-flight simple meal."
+    ]
+  },
+  {
+    "tourId": "fi-02",
+    "countryId": "finland",
+    "titleZh": "赫爾辛基城市夜色遊",
+    "titleEn": "Helsinki City Night Tour",
+    "days": 5,
+    "price": 18800,
+    "img": "/images/tours/fi02.jpg",
+    "shortZh": "新古典建築與海灣寧靜夜景",
+    "shortEn": "Neoclassical buildings & quiet bay night views",
+    "detailZh": "赫爾辛基夜間安靜優雅；市集廣場、大教堂與海灣燈光呈現北歐簡約美學。歷史：赫爾辛基為芬蘭首都，融合瑞典與俄羅斯影響。實用資訊：夜間溫度低；很多店較早關門；公共交通時刻表要查好。",
+    "detailEn": "Quiet, elegant night views of Helsinki harbour & cathedral. Practical info: Cold nights; many shops close early; check timetables.",
+    "tourdetailZh": [
+        "○ 備註：赫爾辛基大教堂、議會廣場外牆景觀燈23:00熄燈；南碼頭市集廣場夜間燈光持續至午夜；市區多數北歐餐廳營業至22:00；電車、地鐵夜間班次減少，可使用Bolt/Uber計程車；冬季晝短，傍晚天色快速轉黑，適合城市夜景觀賞。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：赫爾辛基市中心議會廣場/南碼頭附近酒店，距離各大城市夜景景點步行可達，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航赫爾辛基萬塔國際機場，飛行約13小時40分；機場城鐵I/P線直達市中心，約30分鐘；返程赫爾辛基直飛香港約12小時15分，整套行程來回航班+當地3晚城市夜遊，總計5天。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Exterior lighting of Helsinki Cathedral and Senate Square turns off at 23:00. Market Square and South Harbour lights stay on until midnight. Most Nordic restaurants close at 22:00. Tram and metro services reduce at night, Bolt or Uber taxi available. Days are short in winter, sky darkens quickly in early evening, great for city night sightseeing.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Hotels in central Helsinki near Senate Square / South Harbour. Walking distance to major night landmarks, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK to Helsinki Vantaa Airport ~13hrs40mins. Airport commuter train I/P line to city centre in ~30 mins. Return direct flight Helsinki to HK ~12hrs15mins. Full trip including round-trip flights and 3 nights city night tours takes 5 days."
+    ],
+    "plandetailZh": [
+        "Day1｜香港出發｜香港搭乘直航班機飛往赫爾辛基，跨日清晨抵達，入住市中心酒店休整，調整時差。",
+        "\u3000○ 抵達赫爾辛基，辦理酒店入住，\u3000○ 白天休息儲存體力，預備夜間行程， \u3000○ 酒店簡單北歐輕食宵夜。",
+        "\u3000",
+        "Day2｜議會廣場燈景｜赫爾辛基大教堂 + 議會廣場夜遊（新古典主義建築燈光）。",
+        "\u3000○ 議會廣場夜間步行導賞，\u3000○ 欣賞白色大教堂夜間燈光， \u3000○ 市中心傳統芬蘭餐廳宵夜。",
+        "\u3000",
+        "Day3｜南碼頭濱海夜色｜南碼頭市集廣場 + 濱海港灣夜景（波羅的海海岸都市燈光）。",
+        "\u3000○ 南碼頭濱海夜間導賞，\u3000○ 港邊散步眺望海面與城市燈影， \u3000○ 碼頭附近海鮮餐館宵夜。",
+        "\u3000",
+        "Day4｜設計區與岩石教堂外燈｜岩石教堂外圍燈光 + 設計街區夜間漫步，遊玩後整理行李。",
+        "\u3000○ 岩石教堂外牆夜間觀賞導賞，可安排設計區街巷遊逛 \u3000○ 感受北歐設計街區夜色， \u3000○ 市區小酒館簡餐宵夜。",
+        "\u3000",
+        "Day5｜返程香港｜赫爾辛基萬塔機場搭乘直航班機返回香港。",
+        "\u3000○ 市中心搭乘城鐵前往萬塔機場，\u3000○ 機場辦理登機，搭乘國際航班飛返香港， \u3000○ 航班機上簡餐。"
+    ],
+    "plandetailEn": [
+        "Day1｜Depart HK｜Take direct flight from Hong Kong to Helsinki, arrive early morning next day, check in downtown hotel and adjust jet lag.",
+        "\u3000○ Arrive Helsinki and complete hotel check-in,\u3000○ Rest during daytime to save energy for night activities,  \u3000○ Simple Nordic light supper in hotel.",
+        "\u3000",
+        "Day2｜Senate Square Lights｜Helsinki Cathedral + Senate Square Night Tour (Neoclassical Building Lighting).",
+        "\u3000○ Guided night walking tour in Senate Square,\u3000○ Admire illuminated white cathedral at night,  \u3000○ Dinner at traditional Finnish restaurant in city centre.",
+        "\u3000",
+        "Day3｜South Harbour Seaside Night｜Market Square + Harbour Night View (Baltic Sea coastal city lights).",
+        "\u3000○ Guided night tour along South Harbour waterfront,\u3000○ Stroll by port and watch sea and city light reflections,  \u3000○ Seafood supper near market square.",
+        "\u3000",
+        "Day4｜Design District & Temppeliaukio Church｜Temppeliaukio Church exterior lights + Design District night walk, pack luggage afterwards.",
+        "\u3000○ Guided night visit of rock church exterior, optional walk through design district streets,\u3000○ Experience night atmosphere of Nordic design quarter,  \u3000○ Light supper at local bistro.",
+        "\u3000",
+        "Day5｜Return to HK｜Take direct international flight from Helsinki Vantaa Airport back to Hong Kong.",
+        "\u3000○ Take commuter train from city centre to Vantaa Airport,\u3000○ Complete airport check-in and fly back to Hong Kong,  \u3000○ In-flight simple meal."
+    ]
+  },
+  {
+    "tourId": "fi-03",
+    "countryId": "finland",
+    "titleZh": "拉赫蒂湖區森林夜間體驗",
+    "titleEn": "Lahti Lake & Forest Night Experience",
+    "days": 5,
+    "price": 27800,
+    "img": "/images/tours/fi03.jpg",
+    "shortZh": "湖邊與森林寧靜夜間散步",
+    "shortEn": "Peaceful lake‑forest night walk",
+    "detailZh": "拉赫蒂湖區遠離城市光害，星空清晰；導遊帶領夜間森林漫步，觀察夜間自然。歷史：芬蘭人與森林關係深厚；每個人均有「每man的權利」可自由進入自然。實用資訊：必須跟隨導遊；遠離未知道路；蚊蟲夏季很多。",
+    "detailEn": "Low light pollution offers clear star views. Deep connection between Finns and nature. Practical info: Stay with guide; avoid unknown paths; bring insect repellent in summer.",
+    "tourdetailZh": [
+        "○ 備註：拉赫蒂湖區森林夜遊團一般18:00–21:00出發，森林步道無常設路燈，夜間徒步需佩戴頭燈；薩爾保斯塞爾凱燈光滑雪道照明至22:30；湖邊篝火體驗營地營業至23:00；市區餐廳多數22:00打烊；野外夜間氣溫偏低，建議備齊保暖衣物。",
+        "\u3000",
+        "・✅ 核心規則：日間留酒店休息、補眠；只於 18:00–24:00 出動看夜景 + 夜間導賞 + 宵夜。",
+        "\u3000",
+        "・🏨住宿建議：拉赫蒂韋西耶爾維湖附近湖畔木屋，鄰近森林步道與夜遊集合點，方便夜晚往返，日間可安靜休息。",
+        "\u3000",
+        "・✈️交通：香港直航赫爾辛基萬塔國際機場，飛行約13小時40分；機場轉火車前往拉赫蒂約1小時；返程拉赫蒂搭火車返回赫爾辛基再直飛香港約12小時15分；整套行程來回航班+當地3晚湖區森林夜遊，總計5天。"
+    ],
+    "tourdetailEn": [
+        "○ Notes: Lahti lake & forest night tours depart 18:00–21:00. Forest trails have no permanent lighting, headlamps required for night hiking. Lit ski trails on Salpausselkä stay illuminated until 22:30. Lakeside campfire sites close at 23:00. Most local restaurants shut at 22:00. Night temperature drops sharply in wilderness, warm outfit is essential.",
+        "\u3000",
+        "・✅ Core Rule: Rest & sleep at hotel by day; night sightseeing, guided tours & snacks only between 18:00–24:00.",
+        "\u3000",
+        "・🏨Accommodation Tip: Lakeside cabins near Lake Vesijärvi in Lahti, close to forest trails and tour meeting points, easy night travel & quiet daytime rest.",
+        "\u3000",
+        "・✈️Transport: Direct flight HK to Helsinki Vantaa Airport ~13hrs40mins. Train from airport to Lahti ~1 hour. Return trip: train from Lahti back to Helsinki then direct flight to HK ~12hrs15mins. Full trip including round-trip flights and 3 nights lake-forest night tours takes 5 days."
+    ],
+    "plandetailZh": [
+        "Day1｜香港出發｜香港搭乘直航班機飛往赫爾辛基，跨日清晨抵達，轉火車前往拉赫蒂，入住湖畔木屋休整，調整時差。",
+        "\u3000○ 抵達拉赫蒂湖畔木屋，辦理入住，\u3000○ 白天休息儲存體力，預備夜間森林行程， \u3000○ 木屋內簡單北歐湯品宵夜。",
+        "\u3000",
+        "Day2｜原始森林夜間漫步｜拉赫蒂湖區森林夜遊（暮色森林徒步、篝火休憩）。",
+        "\u3000○ 森林暮色徒步夜間導賞，\u3000○ 篝火旁感受芬蘭森林靜謐夜色，聆聽野生動物聲息， \u3000○ 營地熱飲與簡單輕食宵夜。",
+        "\u3000",
+        "Day3｜韋西耶爾維湖濱夜色｜韋西耶爾維湖岸夜景 + 湖畔桑拿體驗（湖邊星空與水面倒影）。",
+        "\u3000○ 韋西耶爾維湖濱夜間導賞，\u3000○ 湖畔桑拿後欣賞湖面星空倒影， \u3000○ 湖邊小餐館北歐料理宵夜。",
+        "\u3000",
+        "Day4｜薩爾保斯塞爾凱地質公園夜觀｜薩爾保斯塞爾凱山脊步道燈光 + 高地遠眺湖區夜色，遊玩後整理行李。",
+        "\u3000○ 薩爾保斯塞爾凱地質公園夜間導賞，可沿燈光步道徒步 \u3000○ 高地俯瞰眾多湖泊與森林交織的夜景， \u3000○ 木屋暖屋簡餐宵夜。",
+        "\u3000",
+        "Day5｜返程香港｜拉赫蒂搭乘火車返回赫爾辛基萬塔機場，搭直航班機返回香港。",
+        "\u3000○ 拉赫蒂火車站搭乘列車前往赫爾辛基，\u3000○ 機場辦理登機，搭乘國際航班飛返香港， \u3000○ 航班機上簡餐。"
+    ],
+    "plandetailEn": [
+        "Day1｜Depart HK｜Take direct flight from Hong Kong to Helsinki, arrive early morning next day, transfer by train to Lahti, check in lakeside cabin and adjust jet lag.",
+        "\u3000○ Arrive Lahti and check into lakeside cabin,\u3000○ Rest during daytime to save energy for forest night activities,  \u3000○ Simple Nordic soup supper in cabin.",
+        "\u3000",
+        "Day2｜Primeval Forest Night Hike｜Lahti Lake District Forest Evening Tour (Twilight forest hiking & campfire break).",
+        "\u3000○ Guided twilight forest hiking tour,\u3000○ Enjoy quiet forest atmosphere by campfire and listen to wildlife sounds,  \u3000○ Hot drinks and light supper at camp site.",
+        "\u3000",
+        "Day3｜Lake Vesijärvi Waterfront Night｜Lake Vesijärvi shore night view + lakeside sauna experience (star reflection on lake surface).",
+        "\u3000○ Guided night tour along Lake Vesijärvi shore,\u3000○ Watch star reflection on lake after lakeside sauna,  \u3000○ Nordic dinner at lakeside bistro.",
+        "\u3000",
+        "Day4｜Salpausselkä Geopark Night View｜Illuminated trails on Salpausselkä Ridge + overlook lake scenery from highland, pack luggage afterwards.",
+        "\u3000○ Guided night tour at Salpausselkä Geopark with lit trail hiking,\u3000○ Overlook panoramic night scenery of interlaced lakes and forests from ridge,  \u3000○ Warm light supper in cabin.",
+        "\u3000",
+        "Day5｜Return to HK｜Take train from Lahti back to Helsinki Vantaa Airport and fly directly back to Hong Kong.",
+        "\u3000○ Take train from Lahti railway station to Helsinki,\u3000○ Complete airport check-in and fly back to Hong Kong,  \u3000○ In-flight simple meal."
+    ]
+  }
+]

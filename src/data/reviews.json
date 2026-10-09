@@ -1,0 +1,18 @@
+[
+  {
+    "id":"rev-001",
+    "username":"NightWalker",
+    "textZh":"西安古城夜遊非常震撼，燈光很美！",
+    "textEn":"Xi’an night tour was amazing, beautiful lighting!",
+    "img":"/images/demo/rev01.jpg",
+    "createdAt":1788000000000
+  },
+  {
+    "id":"rev-002",
+    "username":"AuroraFan",
+    "textZh":"芬蘭極光團導遊很專業，雖然沒看到極光，但體驗很好。",
+    "textEn":"Finnish aurora guide was professional. No aurora sighting but great experience.",
+    "img":"/images/demo/rev02.png",
+    "createdAt":1788100000000
+  }
+]

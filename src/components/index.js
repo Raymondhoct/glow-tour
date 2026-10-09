@@ -1,0 +1,10 @@
+export { default as LanguageSwitch } from './LanguageSwitch';
+export { default as CartWidget } from './CartWidget';
+export { default as CategoryCard } from './CategoryCard';
+export { default as TourCard } from './TourCard';
+export { default as Paginator } from './Paginator';
+export { default as LoginModal } from './modals/LoginModal';
+export { default as RegisterModal } from './modals/RegisterModal';
+export { default as Navbar } from './Navbar';
+export { default as Footer } from './Footer';
+export { default as ScrollToTop } from './ScrollToTop.jsx'
