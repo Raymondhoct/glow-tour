@@ -15,7 +15,7 @@ const HomePage = () => {
   return (
     <>
       <div className="video-bg-wrap">
-        <video src="/videos/hero-bg.mp4" autoPlay muted loop playsInline />
+        <video src="https://res.cloudinary.com/rfexp9dj/video/upload/v1791535670/hero-bg.mp4" autoPlay muted loop playsInline />
         <div className="video-bg-overlay" />
       </div>
 
@@ -53,7 +53,7 @@ const HomePage = () => {
               {/* 第六個面放入影片 */}
               <div className="face bottom">
                 <video
-                  src="./videos/countries.mp4"
+                  src="https://res.cloudinary.com/rfexp9dj/video/upload/v1791536577/countries.mp4"
                   autoPlay
                   muted
                   loop

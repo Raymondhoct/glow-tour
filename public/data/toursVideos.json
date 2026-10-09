@@ -1,0 +1,62 @@
+[
+  {
+    "tourId": "cn-01",
+    "embedUrl": "https://www.youtube.com/embed/juxAyQbGF5s?si=tjKUbFUCFiU_TP2O"
+  },
+  {
+    "tourId": "cn-02",
+    "embedUrl": "https://www.youtube.com/embed/s5Xw7FkJjm8?si=S6RHpIpApJYinzNA"
+  },
+    {
+    "tourId": "cn-03",
+    "embedUrl": "https://www.youtube.com/embed/ei5-NPmr6mU?si=UaJrst7TvWTppu81"
+  },
+  {
+    "tourId": "jp-01",
+    "embedUrl": "https://www.youtube.com/embed/HQtVV5b-cH4?si=tDxK_j8X2swDdV-d"
+  },
+    {
+    "tourId": "jp-02",
+    "embedUrl": "https://www.youtube.com/embed/Bp_3weZwS7I?si=YGKzHpmhKPPikbTe"
+  },
+  {
+    "tourId": "jp-03",
+    "embedUrl": "https://www.youtube.com/embed/jwvnGEUnMK0?si=aPV46B_2idgld00C"
+  },
+    {
+    "tourId": "kr-01",
+    "embedUrl": "https://www.youtube.com/embed/Ap9PppcrRMk?si=XOa_o18XeTizWLSE"
+  },
+  {
+    "tourId": "kr-02",
+    "embedUrl": "https://www.youtube.com/embed/t3HgKOgT_Tc?si=vatPZPAbrziHPQXr"
+  },
+    {
+    "tourId": "kr-03",
+    "embedUrl": "https://www.youtube.com/embed/Hq3QmfyLqvU?si=2sR5-93wRAjGuksq"
+  },
+  {
+    "tourId": "th-01",
+    "embedUrl": "https://www.youtube.com/embed/3rPXPRVcU6Y?si=73a5060emteFyP2J"
+  },
+    {
+    "tourId": "th-02",
+    "embedUrl": "https://www.youtube.com/embed/O-rqSFrY0I0?si=ZoL21gIcFl4nRLKu"
+  },
+  {
+    "tourId": "th-03",
+    "embedUrl": "https://www.youtube.com/embed/IQJ8VtFYUeE?si=fadepJZRDzIYOskg"
+  },
+    {
+    "tourId": "fi-01",
+    "embedUrl": "https://www.youtube.com/embed/JejgNnR1yiA?si=w39U0WdMzWFJHnax"
+  },
+  {
+    "tourId": "fi-02",
+    "embedUrl": "https://www.youtube.com/embed/-ZyUgPnjEzA?si=FjvUgHTrQOAUvS_x"
+  },
+  {
+    "tourId": "fi-03",
+    "embedUrl": "https://www.youtube.com/embed/Ub13Fvyj6a4?si=55yypuJ0MoU2lW3I"
+  }  
+]
