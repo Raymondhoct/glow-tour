@@ -200,18 +200,19 @@ zIndex:1
 onClick={resetVideo}
 style={{
 position:"absolute",
-top:"38px",
+top:"60px",
 right:"16px",
 zIndex:3,
-padding:"6px 6px",
+padding:"5px 10px",
 background:"rgba(0,0,0,0.55)",
 color:"#fff",
-border:"1px solid #fff",
+// border:"1px solid #fff",
 borderRadius:"6px",
-cursor:"pointer"
+cursor:"pointer",
+fontSize:"2rem", /* 重設按鈕字體加大 */
 }}
 >
-{lang === "zh" ? "⟲ 重設" : "⟳ Reset"}
+{lang === "zh" ? "⟲" : "⟳"}
 </button>
 </>
 ) : (
@@ -273,7 +274,7 @@ pointerEvents: "none",
 >
 {/* 重點：外層容器不再設定 pointerEvents:auto，只給文字本身加上 */}
 <div>
-<h1 style={{ color: "#fff", marginBottom: "0.4rem", pointerEvents: "auto" }}>{title}</h1>
+<h1 style={{ color: "#fff", marginBottom: "0.4rem", marginRight:"5rem", pointerEvents: "auto", fontSize: "1.4rem"}}>{title}</h1>
 <div style={{ color: "var(--text-gold)", fontSize: "1.1rem", pointerEvents: "auto" }}>
 {t("tour.priceFrom")} HK${tour.price} · {tour.days}{" "}
 {t("tour.days")}
