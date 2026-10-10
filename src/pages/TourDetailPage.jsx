@@ -21,8 +21,11 @@ return toursVideos.find(v => v.tourId === tourId);
 }, [tourId]);
 const videoEmbedUrlRaw = tourVideoItem?.embedUrl;
 // 動態拼接參數，不開啟自動播放
+// const videoEmbedUrl = videoEmbedUrlRaw || null;
+// ? `${videoEmbedUrlRaw}${videoEmbedUrlRaw.includes('?') ? '&' : '?'}mute=1`
+// : null;
 const videoEmbedUrl = videoEmbedUrlRaw
-? `${videoEmbedUrlRaw}${videoEmbedUrlRaw.includes('?') ? '&' : '?'}mute=1`
+? `${videoEmbedUrlRaw}${videoEmbedUrlRaw.includes('?') ? '&' : '?'}controls=1`
 : null;
 // 影片播放狀態：預設false，點擊按鈕才載入iframe
 const [isVideoPlaying, setIsVideoPlaying] = useState(false);
@@ -154,7 +157,10 @@ setCarouselIndex(prev => (prev - 1 + carouselItems.length) % carouselItems.lengt
   }
 // 重設影片函式：把狀態改回false，卸載iframe
 const resetVideo = () => {
-setIsVideoPlaying(false);
+  setIsVideoPlaying(false);
+  setTimeout(() => {
+    setIsVideoPlaying(true);
+  }, 100);
 };
 return (
 <div className={`page-wrap container ${country?.themeClass || ""}`}>
@@ -166,7 +172,7 @@ height: "420px",
 borderRadius: "12px",
 overflow: "hidden",
 marginBottom: "2rem",
-        }}
+}}
 >
 {videoEmbedUrl ? (
 <>
@@ -176,38 +182,39 @@ marginBottom: "2rem",
 src={videoEmbedUrl}
 title="YouTube video player"
 frameBorder="0"
-allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
 referrerPolicy="strict-origin-when-cross-origin"
 allowFullScreen
+mozAllowFullScreen
+webkitAllowFullScreen
 style={{
 width: "100%",
 height: "100%",
-transform: "scale(1.3)",
 transformOrigin: "center",
 position:"relative",
 zIndex:1
-      }}
+}}
 />
 {/* 影片播放時，在右上角增加【重設影片】按鈕 */}
 <button
 onClick={resetVideo}
 style={{
 position:"absolute",
-top:"16px",
+top:"38px",
 right:"16px",
 zIndex:3,
-padding:"6px 12px",
+padding:"6px 6px",
 background:"rgba(0,0,0,0.55)",
 color:"#fff",
 border:"1px solid #fff",
 borderRadius:"6px",
 cursor:"pointer"
-  }}
+}}
 >
-{lang === "zh" ? "重設影片" : "Reset Video"}
+{lang === "zh" ? "⟲ 重設" : "⟳ Reset"}
 </button>
 </>
-  ) : (
+) : (
 // 未播放狀態：顯示播放按鈕
 <div
 style={{
@@ -219,7 +226,7 @@ alignItems: "center",
 justifyContent: "center",
 position:"relative",
 zIndex:1
-      }}
+}}
 >
 <button
 onClick={() => setIsVideoPlaying(true)}
@@ -237,40 +244,44 @@ alignItems: "center",
 justifyContent: "center",
 backdropFilter: "blur(4px)",
 transition: "background 0.2s",
-        }}
+}}
 onMouseOver={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.4)"}
 onMouseLeave={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.25)"}
 >
-        ▶
+▶
 </button>
 </div>
-  )}
+)}
 </>
-        ) : (
+) : (
 // 沒有影片時，顯示黑色備用背景
 <div style={{ width: "100%", height: "100%", background: "#000" }}></div>
-        )}
-{/* ===== 修改重點：只做底部文字遮罩，不再蓋滿整個畫面 ===== */}
+)}
+{/* ===== 修改重點：減少底部padding，並移除內層div的pointerEvents:auto ===== */}
 <div
 style={{
 position: "absolute",
 left:0,
 right:0,
 bottom:0,
-padding: "2rem",
+padding: "1.2rem 2rem",  /* 上下padding由2rem縮小成1.2rem，左右保留2rem */
+paddingBottom: "75px",    /* 底部預留75px空間，避開YT播放器控制列 */
 background: "linear-gradient(transparent, rgba(0,0,0,0.7))",
 zIndex: 2,
-          }}
+pointerEvents: "none",
+}}
 >
+{/* 重點：外層容器不再設定 pointerEvents:auto，只給文字本身加上 */}
 <div>
-<h1 style={{ color: "#fff", marginBottom: "0.4rem" }}>{title}</h1>
-<div style={{ color: "var(--text-gold)", fontSize: "1.1rem" }}>
+<h1 style={{ color: "#fff", marginBottom: "0.4rem", pointerEvents: "auto" }}>{title}</h1>
+<div style={{ color: "var(--text-gold)", fontSize: "1.1rem", pointerEvents: "auto" }}>
 {t("tour.priceFrom")} HK${tour.price} · {tour.days}{" "}
 {t("tour.days")}
 </div>
 </div>
 </div>
 </div>
+
 <div className="text-box-purple">
 <h3 style={{ color: "var(--text-gold)", marginBottom: "1rem" }}>
 {t("tour.infoTitle")}
@@ -284,6 +295,21 @@ gap: "1rem",
 flexWrap: "wrap",
           }}
 >
+
+<button
+className="btn-primary"
+onClick={() => setShowMore(!showMore)}
+>
+{lang === 'zh' ? '了解更多' : 'See more'}
+</button>
+
+<Link
+to={country ? `/country/${country.id}` : "/browse"}
+className="btn-outline"
+>
+{lang === "zh" ? "返回國家頁" : "Back to country"}
+</Link>
+
 <button
 onClick={() => addToCart(tour)}
 disabled={isInCart}
@@ -293,18 +319,7 @@ className={isInCart ? "btn-outline" : "btn-primary"}
 ? "✓ " + (lang === "zh" ? "已加入購物車" : "Already in cart")
 : t("tour.addCart")}
 </button>
-<Link
-to={country ? `/country/${country.id}` : "/browse"}
-className="btn-outline"
->
-{lang === "zh" ? "返回國家頁" : "Back to country"}
-</Link>
-<button
-className="btn-primary"
-onClick={() => setShowMore(!showMore)}
->
-{lang === 'zh' ? '了解更多' : 'See more'}
-</button>
+
 </div>
 {showMore && (
 <main>
