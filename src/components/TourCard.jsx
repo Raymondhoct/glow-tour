@@ -19,7 +19,7 @@ const TourCard = ({ tour }) => {
   return (
     <Link to={`/tour/${tour.tourId}`} className="card">
       <div className="card-img-wrap">
-        <img src={`${import.meta.env.BASE_URL}/{tour.img}`} alt={title} />
+        <img src={`${import.meta.env.BASE_URL}${tour.img.replace(/^\/+/, '')}`} alt={title} />
       </div>
       <div className="card-body">
         <h3 className="card-title">{title}</h3>
