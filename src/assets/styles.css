@@ -273,23 +273,23 @@ footer {
 
 /* 前 5 個面維持圖片 */
 .front {
-    background-image: url('images/countries/china.jpg');
+    background-image: url('/images/countries/china.jpg');
     transform: translateZ(150px);
 }
 .back {
-    background-image: url('images/countries/japan.jpg');
+    background-image: url('/images/countries/japan.jpg');
     transform: rotateY(180deg) translateZ(150px);
 }
 .right {
-    background-image: url('images/countries/korea.jpg');
+    background-image: url('/images/countries/korea.jpg');
     transform: rotateY(90deg) translateZ(150px);
 }
 .left {
-    background-image: url('images/countries/thailand.jpg');
+    background-image: url('/images/countries/thailand.jpg');
     transform: rotateY(-90deg) translateZ(150px);
 }
 .top {
-    background-image: url('images/countries/finland.jpg');
+    background-image: url('/images/countries/finland.jpg');
     transform: rotateX(90deg) translateZ(150px);
 }
 
