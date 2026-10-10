@@ -43,7 +43,8 @@ function App() {
               <Routes>
                 {/* 1. SplashPage 獨立在外，不包含 Navbar 和 Footer */}
                 <Route path="/" element={<SplashPage />} />
-
+                <Route path="/glow-tour/" element={<SplashPage />} />
+                
                 {/* 2. 其他所有頁面透過 MainLayout 共享 Navbar 和 Footer */}
                 <Route element={
                   <MainLayout 
