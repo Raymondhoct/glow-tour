@@ -49,10 +49,11 @@ const BrowsePage = () => {
               <p>{lang==='zh' ? r.textZh : r.textEn}</p>
               {r.img && (
                 <img
-                  src={r.img}
+                  src={`${import.meta.env.BASE_URL}${r.img.replace(/^\/+/, '')}`}
                   alt="review"
                   style={{maxWidth:'320px', borderRadius:'8px', marginTop:'0.6rem'}}
                 />
+
               )}
             </div>
           ))
