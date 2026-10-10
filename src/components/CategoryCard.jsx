@@ -7,8 +7,7 @@ const CategoryCard = ({ country }) => {
   const desc = lang === 'zh' ? country.descZh : country.descEn;
   const city = lang === 'zh' ? country.cityZh : country.cityEn;
 
-  // public 資源直接拼接絕對路徑
-  const imgSrc = `/images/countries/${country.id}.jpg`;
+  const imgSrc = `${import.meta.env.BASE_URL}images/countries/${country.id}.jpg`;
 
   return (
     <Link to={`/country/${country.id}`} className={`card ${country.themeClass}`}>
@@ -30,4 +29,3 @@ const CategoryCard = ({ country }) => {
 };
 
 export default CategoryCard;
-
