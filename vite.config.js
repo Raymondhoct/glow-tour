@@ -4,6 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig(({command}) => ({
   plugins: [react()],
-  base: '/' // command === 'build' ? '/glow-tour/' : '/',
+  base: command === 'build' ? '/glow-tour/' : '/',
 }))
-
