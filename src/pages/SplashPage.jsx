@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useLang } from '../contexts/LanguageContext';
-// import siteConfig from '../data/siteConfig.json';
+import siteConfig from '../data/siteConfig.json';
 
 export default function SplashPage() {
   const { lang } = useLang();
@@ -18,17 +18,17 @@ export default function SplashPage() {
     return () => clearInterval(timer);
   }, []);
 
-  const [siteConfig, setSiteConfig] = useState(null);
+  // const [siteConfig, setSiteConfig] = useState(null);
 
-  useEffect(() => {
-    fetch('/data/siteConfig.json')
-    .then(res => res.json())
-    .then(data => setSiteConfig(data));
-  },[]);
+  // useEffect(() => {
+  //   fetch('/data/siteConfig.json')
+  //   .then(res => res.json())
+  //   .then(data => setSiteConfig(data));
+  // },[]);
 
-  if (!siteConfig) {
-    return <div>Loading...</div>;
-  }
+  // if (!siteConfig) {
+  //   return <div>Loading...</div>;
+  // }
 
   return (
     <section style={{
