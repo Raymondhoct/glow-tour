@@ -38,7 +38,8 @@ function App() {
       <AuthProvider>
         <CartProvider>
           <RecordProvider>
-            <Router basename={import.meta.env.BASE_URL || '/'}>
+            {/* <Router basename={import.meta.env.BASE_URL || '/'}> */}
+            <Router basename={import.meta.env.VITE_BASE_PATH || '/'}>
               <ScrollToTop />   {/* ← 加入這個組件 for scrollToTop function */}
               <Routes>
                 {/* 1. SplashPage 獨立在外，不包含 Navbar 和 Footer */}
