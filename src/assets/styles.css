@@ -472,3 +472,15 @@ main {
   background: linear-gradient(transparent, rgba(0,0,0,0.75));
   width:100%;
 }
+
+/* .coupon-card {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 180px;
+}
+.coupon-card-body {
+  background-color: rgba(0,0,0,0.55);
+  padding:1rem;
+  height:100%;
+} */
