@@ -294,8 +294,18 @@ marginTop: "2rem",
 display: "flex",
 gap: "1rem",
 flexWrap: "wrap",
+flexDirection: "column",
+justifyContent: "center",
+alignItems: "flex-end",
           }}
 >
+
+<Link
+to={country ? `/country/${country.id}` : "/browse"}
+className="btn-outline"
+>
+{lang === "zh" ? "返回國家頁" : "Back to country"}
+</Link>
 
 <button
 className="btn-primary"
@@ -304,12 +314,6 @@ onClick={() => setShowMore(!showMore)}
 {lang === 'zh' ? '了解更多' : 'See more'}
 </button>
 
-<Link
-to={country ? `/country/${country.id}` : "/browse"}
-className="btn-outline"
->
-{lang === "zh" ? "返回國家頁" : "Back to country"}
-</Link>
 
 <button
 onClick={() => addToCart(tour)}
