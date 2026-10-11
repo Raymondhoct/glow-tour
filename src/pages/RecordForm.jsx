@@ -41,44 +41,38 @@ const RecordForm = () => {
     }
   };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    if(form.note.length>100) {
-      alert(lang==='zh' ? '隨記不能超過100字' : 'Note max 100 chars');
-      return;
-    }
+const handleSubmit = async (e) => {
+  e.preventDefault();
+  if(form.note.length>100) {
+    alert(lang==='zh' ? '隨記不能超過100字' : 'Note max 100 chars');
+    return;
+  }
+  try {
+    addRecord({
+      userId: currentUser.id,
+      travelDate: form.travelDate,
+      location: form.location,
+      title: form.title,
+      note: form.note,
+      imgKey: form.imgKey
+    });
+    // ✅ 重點：userReview 只存 imgKey，不要存 base64！
+    addUserReview({
+      username: currentUser.username,
+      textZh: `【${form.title}】${form.note}`,
+      textEn: `[${form.title}] ${form.note}`,
+      imgKey: form.imgKey, // <--- 修改這裡！
+      createdAt: Date.now()
+    });
+    addPoints(50);
+    alert(lang === 'zh' ? '已分享並獲取積分！' : 'Shared successfully and earned points!');
+    navigate('/my-records');
+  } catch (err) {
+    console.error(err);
+    alert(lang === 'zh' ? '提交失敗，請稍後再試' : 'Submission failed, please try again');
+  }
+};
 
-    try {
-      addRecord({
-        userId: currentUser.id,
-        travelDate: form.travelDate,
-        location: form.location,
-        title: form.title,
-        note: form.note,
-        imgKey: form.imgKey
-      });
-
-      // 同時發送到分享牆＋贈積分
-      addUserReview({
-        username: currentUser.username,
-        textZh: `【${form.title}】${form.note}`,
-        textEn: `[${form.title}] ${form.note}`,
-        img: form.imgPreview,
-        createdAt: Date.now()
-      });
-
-      // 修正 2：直接使用最上方解構出來的 addPoints，不要呼叫 hook
-      addPoints(50);
-
-      // 成功提示（支援中英文切換）
-      alert(lang === 'zh' ? '已分享並獲取積分！' : 'Shared successfully and earned points!');
-      
-      navigate('/my-records');
-    } catch (err) {
-      console.error(err);
-      alert(lang === 'zh' ? '提交失敗，請稍後再試' : 'Submission failed, please try again');
-    }
-  };
 
   return (
     <div className="page-wrap container">

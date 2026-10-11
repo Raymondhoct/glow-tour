@@ -1,61 +1,61 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import tours from '../data/tours.json';
 import reviewsInit from '../data/reviews.json';
 import { useLang } from '../contexts/LanguageContext';
-import { useRecord, imageStore } from '../contexts/RecordContext'; // 引入 imageStore
+import { useRecord, imageStore } from '../contexts/RecordContext';
 import { TourCard, Paginator } from '../components';
 import { isWithinLast7Days } from '../utils';
-
 const BrowsePage = () => {
   const { t, lang } = useLang();
   const { userReviews } = useRecord();
-
   const tourPageSize = 6;
   const [tourPage, setTourPage] = useState(1);
+  const [displayReviews, setDisplayReviews] = useState([]);
   const tourOffset = (tourPage - 1) * tourPageSize;
   const paginatedTours = tours.slice(tourOffset, tourOffset + tourPageSize);
 
-  // 1. 先組合所有評論（示範評論 + 符合 7 天內的使用者評論）
   const rawReviews = useMemo(() => {
     const validUserReviews = userReviews.filter(r => isWithinLast7Days(r.createdAt));
     return [...reviewsInit, ...validUserReviews];
   }, [userReviews]);
 
-  // 2. 建立一個 state 用來存放包含「圖片預覽 URL (Blob URL)」的評論列表
-  const [displayReviews, setDisplayReviews] = useState([]);
-
-  // 3. 處理圖片載入：若是使用者上傳的評論（有 imgKey），從 imageStore 讀取 Blob 並轉成 ObjectURL
   useEffect(() => {
+    let objectUrls = [];
     const loadReviewImages = async () => {
-      const arr = await Promise.all(rawReviews.map(async r => {
-        // 如果該筆評論有 imgKey 且沒有實體 img 網址，就去 IndexedDB 抓取圖片
-        if (r.imgKey && !r.img) {
-          try {
+      const arr = await Promise.all(rawReviews.map(async (r) => {
+        // 優先處理使用者上傳圖片：有 imgKey，從 indexedDB 讀取
+        if(r.imgKey){
+          try{
             const blob = await imageStore.getItem(r.imgKey);
-            if (blob) {
-              const previewUrl = URL.createObjectURL(blob);
-              return { ...r, displayImg: previewUrl };
+            if(blob){
+              const url = URL.createObjectURL(blob);
+              objectUrls.push(url);
+              return {...r, displayImg: url};
             }
-          } catch (e) {
-            console.error("Failed to load review image from store", e);
+          }catch(e){
+            console.error("載入評論圖片失敗", e);
           }
         }
-        
-        // 如果是原本的示範評論（有 r.img），則根據是否為 GitHub 子路徑加上 BASE_URL
-        if (r.img) {
-          const formattedImg = r.img.startsWith('http') 
-            ? r.img 
-            : `${import.meta.env.BASE_URL}${r.img.replace(/^\/+/, '')}`;
-          return { ...r, displayImg: formattedImg };
+        // 處理 Demo 靜態圖片（reviews.json 的圖片，自動加上 BASE_URL，支援 GitHub Pages）
+        if(r.img){
+          let imgSrc;
+          if(r.img.startsWith('http') || r.img.startsWith('data:')){
+            imgSrc = r.img;
+          }else{
+            imgSrc = `${import.meta.env.BASE_URL}${r.img.replace(/^\/+/, '')}`;
+          }
+          return {...r, displayImg: imgSrc};
         }
-
-        return { ...r, displayImg: null };
+        return {...r, displayImg: null};
       }));
-
       setDisplayReviews(arr);
     };
 
     loadReviewImages();
+    // cleanup：釋放 blob url，防止記憶體洩漏
+    return () => {
+      objectUrls.forEach(url => URL.revokeObjectURL(url));
+    };
   }, [rawReviews]);
 
   return (
@@ -72,7 +72,6 @@ const BrowsePage = () => {
           onPageChange={setTourPage}
         />
       </section>
-
       <section>
         <h2 style={{marginBottom:'1.5rem', color:'var(--text-gold)'}}>{t('reviewWallTitle')}</h2>
         {displayReviews.length === 0 ? (
@@ -98,5 +97,4 @@ const BrowsePage = () => {
     </div>
   );
 };
-
 export default BrowsePage;
