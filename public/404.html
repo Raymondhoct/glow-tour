@@ -1,13 +1,18 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>輝影旅遊 | Glow & Shadow Tourism</title>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // GitHub Pages SPA 重定向腳本
+    const path = window.location.pathname;
+    const repoName = "/glow-tour";
+    if (path.startsWith(repoName)) {
+      sessionStorage.setItem("spaRedirectPath", path);
+      window.location.href = repoName + "/";
+    }
+  </script>
 </head>
 <body>
-  <div id="root"></div>
-  <script type="module" src="/src/main.jsx"></script>
 </body>
 </html>

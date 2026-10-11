@@ -7,6 +7,15 @@
   <title>輝影旅遊 | Glow & Shadow Tourism</title>
 </head>
 <body>
+  <script>
+  (function() {
+    const targetPath = sessionStorage.getItem("spaRedirectPath");
+    if (targetPath) {
+      history.replaceState(null, "", targetPath);
+      sessionStorage.removeItem("spaRedirectPath");
+    }
+  })();
+</script>
   <div id="root"></div>
   <script type="module" src="/src/main.jsx"></script>
 </body>
